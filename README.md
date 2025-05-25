@@ -1,4 +1,4 @@
-# Hi, I’m Anna Naga Bala 👋
+# Hi, I’m A. Naga Bala 👋
 
 ## 🚀 About Me
 I'm a passionate and performance-focused Full Stack Developer with 2+ years of experience building scalable, responsive web applications using modern web technologies. I thrive on creating real-world, business-impacting solutions with React.js, Node.js, and Express.js.

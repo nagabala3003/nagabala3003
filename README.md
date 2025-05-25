@@ -7,18 +7,21 @@ I'm a passionate and performance-focused Full Stack Developer with 2+ years of e
 
 <h2>📫 Connect with Me</h2>
 
-<a href="mailto:anbala0330@gmail.com">
+<a href="mailto:anbala0330@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/anagabala0330">
+
+<a href="https://linkedin.com/in/anagabala0330" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/nagabala3003">
+
+<a href="https://github.com/nagabala3003" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-[![Resume](https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1xYzABCd1234/view?usp=sharing)
 
-
+<a href="https://drive.google.com/file/d/1xYzABCd1234/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+</a>
 
 ---
 

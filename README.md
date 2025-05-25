@@ -1,83 +1,115 @@
-# Hi, I’m Anna Naga Bala! 👋
+# Hi, I’m Anna Naga Bala 👋
 
 ## 🚀 About Me
-I'm a passionate Full Stack Web Developer with 2+ years of experience in building robust and scalable web applications. I specialize in JavaScript, React.js, Next.js, and backend technologies like Node.js and Express.js. I love building intuitive and responsive designs, integrating third-party APIs, and streamlining development processes.
-
-## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anbala0330@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/anagabala0330)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagabala3003)
-
-## 👀 Interests
-- Creating seamless user interfaces with React
-- Exploring backend development and API integrations
-- Learning about Generative AI and modern tech trends
-- Participating in full-stack open-source projects
-
-## 💼 Professional Experience
-- **Full Stack Web Developer** at **NextPage Technologies**, Hyderabad  
-  _Apr 2023 – Present_  
-  - Developed and deployed 2+ full-stack applications
-  - Used React.js, Node.js, and Express.js for performant web solutions
-  - Integrated third-party APIs and enhanced backend performance
-  - Received client praise for intuitive UI using Tailwind CSS & Ant Design
-
-## 💻 Technical Skills
-### Languages & Tools:
-- JavaScript, TypeScript, HTML, CSS, Python (Basics)
-
-### Frontend:
-- React.js, Next.js, Redux, Context API
-- Tailwind CSS, Bootstrap, Ant Design, Material UI
-
-### Backend:
-- Node.js, Express.js, REST APIs
-
-### Database:
-- MySQL, MongoDB
-
-### Developer Tools:
-- Git, GitHub, VS Code, Notepad++
-
-### Concepts:
-- Manual Testing, JSON, API Integration
-
-## 🛠️ Projects
-### ImpactNXT
-A robust platform for Non-Profit Organizations (NPOs) to manage operations.  
-**Tech Stack**: React.js, Node.js, Express.js, MySQL
-
-### Election Mantra
-A Poll Booth Management system that simplifies election tasks.  
-**Features**: Voter registration, real-time monitoring, result tabulation  
-**Tech Stack**: React.js, Node.js, Express.js, MySQL
-
-### Job Evaluation System _(Ongoing)_
-A tool for fair job assessments based on multiple evaluation factors.  
-**Tech Stack**: React, TypeScript, Tailwind CSS, Node.js, Express.js, Ant Design
-
-## 🎓 Education
-- **Bachelor of Commerce (Computers)** – Geetham’s Degree & PG College  
-  CGPA: 8.1 (2019–2022)
-
-## 📜 Certifications
-- Python Fundamentals – Simplilearn (May 2025)
-- Introduction to Generative AI – Simplilearn & Google Cloud (May 2025)
-
-## 🌱 Currently Learning
-- Generative AI
-- TypeScript and Backend Design Patterns
-- Scalable System Architectures
-
-## 💞 Looking to Collaborate On
-- React and Node.js-based projects
-- Open-source full-stack solutions
-- AI-integrated web applications
-
-## ⚡ Fun Fact
-- I enjoy learning new frameworks & sharing knowledge with peers 🚀
-- I believe in writing clean, maintainable code 🤓
+I'm a passionate and performance-focused Full Stack Developer with 2+ years of experience building scalable, responsive web applications using modern web technologies. I thrive on creating real-world, business-impacting solutions with React.js, Node.js, and Express.js.
 
 ---
 
-✨ This repository is special because it's my GitHub profile README! Click the **Preview** link above to explore more.
+## 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anbala0330@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anagabala0330)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagabala3003)
+
+---
+
+## 🧠 Currently Learning
+- Advanced React.js (Hooks, Context API, Performance Optimization)
+- Modern JavaScript (ES6+, Async/Await, Closures, Prototypes)
+- Frontend Architecture & Design Patterns
+- Building scalable full-stack applications
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Web Developer – NextPage Technologies, Hyderabad  
+_April 2023 – Present_
+
+- Built and deployed full-stack web apps using React, Node.js, and MySQL.
+- Integrated third-party APIs and improved performance through backend refactoring.
+- Designed responsive UIs using Tailwind CSS, Ant Design, and Material UI.
+- Improved code quality by implementing reusable components and following modern design patterns.
+- Used GitHub for version control and collaboration in cross-functional teams.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+JavaScript, TypeScript, HTML5, CSS3, Python (Basics)
+
+**Frontend:**  
+React.js, Next.js, Redux, Context API, Tailwind CSS, Ant Design, Bootstrap, Material UI
+
+**Backend:**  
+Node.js, Express.js, RESTful APIs
+
+**Databases:**  
+MySQL, MongoDB
+
+**Developer Tools:**  
+Git, GitHub, VS Code, Postman
+
+**Other Skills:**  
+Manual Testing, JSON, API Integration, Responsive Design
+
+---
+
+## 📂 Notable Projects
+
+### 🔸 ImpactNXT  
+A powerful platform for Non-Profit Organizations (NPOs) to manage beneficiaries, projects, and donors.  
+**Tech:** React, Node.js, Express, MySQL
+
+### 🔸 Election Mantra  
+Poll Booth Management system with real-time tracking and result tabulation.  
+**Tech:** React, Node.js, Express, MySQL
+
+### 🔸 Job Evaluation System _(In Progress)_  
+A dynamic system to evaluate job roles and assign fair pay based on multiple compensable factors.  
+**Tech:** React, TypeScript, Tailwind CSS, Node.js, Express, Ant Design
+
+---
+
+## 🎓 Education
+
+**Bachelor of Commerce (Computers)**  
+Geetham’s Degree & PG College – CGPA: 8.1  
+_(2019 – 2022)_
+
+---
+
+## 📜 Certifications
+
+- Python Fundamentals – Simplilearn (May 2025)
+- Introduction to Generative AI – Simplilearn & Google Cloud (May 2025)
+
+---
+
+## 🤝 Looking to Collaborate On
+
+- Scalable React + Node.js Projects  
+- Open-source Tools and SaaS Platforms  
+- UI/UX Improvement for Web Apps  
+- Generative AI integrations with JavaScript
+
+---
+
+## ⚡ Fun Fact
+
+I believe in learning by doing. Whether it's coding up complex UI logic or optimizing backend APIs — I love solving problems with clean and scalable code. I'm also a fan of building in public and sharing knowledge with the dev community. 😄
+
+---
+
+## 📊 GitHub Stats
+
+![Nagabala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagabala3003&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagabala3003&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=nagabala3003&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=nagabala3003&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub Followers](https://img.shields.io/github/followers/nagabala3003?label=Follow&style=social)](https://github.com/nagabala3003)
+
+---
+
+> ✨ This repository powers my GitHub profile — stay tuned for more projects, learnings, and open-source contributions! 🚀

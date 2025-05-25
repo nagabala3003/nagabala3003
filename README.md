@@ -102,13 +102,21 @@ I believe in learning by doing. Whether it's coding up complex UI logic or optim
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Nagabala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagabala3003&show_icons=true&theme=radical)
+### 🔥 My GitHub Stats
+![Nagabala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagabala3003&show_icons=true&theme=radical&hide=contribs,prs)
+
+### 📌 Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagabala3003&layout=compact&theme=radical)
+
+### 🚀 GitHub Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=nagabala3003&theme=radical)
+
+### 👀 Profile Views & Followers
 ![Profile Views](https://komarev.com/ghpvc/?username=nagabala3003&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub Followers](https://img.shields.io/github/followers/nagabala3003?label=Follow&style=social)](https://github.com/nagabala3003)
+
 
 ---
 

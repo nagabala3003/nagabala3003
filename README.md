@@ -19,7 +19,7 @@ I'm a passionate and performance-focused Full Stack Developer with 2+ years of e
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://drive.google.com/file/d/1xYzABCd1234/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1s3CCx_pBiyOORJzpntmP4e-1esP5a_pZ/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
 </a>
 

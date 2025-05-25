@@ -16,6 +16,8 @@ I'm a passionate and performance-focused Full Stack Developer with 2+ years of e
 <a href="https://github.com/nagabala3003">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+[![Resume](https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1xYzABCd1234/view?usp=sharing)
+
 
 
 ---
